@@ -6,11 +6,11 @@ I'm a creative designer and developer who has been in the industry for over 10 y
 
 ---
 
-- 🔭 I’m currently working on my personal portfolio, non-profit work for World Ocean School and a few others, as well as a few freelance projects. I'm always looking to [help out](mailto:rob@roberskine.com) if you need some help.
-- 🌱 I’m currently learning: Vue, Nuxt and GraphQL.
-- 👯 I’m looking to collaborate on any work that could help make your life, your clients, or the world any better.
-- 🤔 I’m looking for help with: Work on my Craft CMS Plugin, [Craft User Manual](https://github.com/hillholliday/Craft-User-Manual).
-- 💬 Ask me about: Accessibility, Performance, innovative UX, and the Philadelphia Phillies.
-- 📫 How to reach me: Email me at [Rob@RobErskine.com](mailto:rob@roberskine.com) or hit me up on [Twitter](https://twitter.com/erskinerob).
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: I got kicked out of the honor society in high school for programming calculus functions into my TI-98 calculator. From there I said screw it and leaned all in to design and coding. 
+- 🔭  I’m currently working on my personal portfolio, non-profit work for World Ocean School and a few others, as well as a few freelance projects. I'm always looking to [help out](mailto:rob@roberskine.com) if you need some help.
+- 🌱  I’m currently learning: Vue, Nuxt and GraphQL.
+- 👯  I’m looking to collaborate on any work that could help make your life, your clients, or the world any better.
+- 🤔  I’m looking for help with: Work on my Craft CMS Plugin, [Craft User Manual](https://github.com/hillholliday/Craft-User-Manual).
+- 💬  Ask me about: Accessibility, Performance, innovative UX, and the Philadelphia Phillies.
+- 📫  How to reach me: Email me at [Rob@RobErskine.com](mailto:rob@roberskine.com) or hit me up on [Twitter](https://twitter.com/erskinerob).
+- 😄  Pronouns: he/him.
+- ⚡  Fun fact: I got kicked out of the honor society in high school for programming calculus functions into my TI-98 calculator. From there I said screw it and leaned all in to design and coding. 
