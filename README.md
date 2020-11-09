@@ -13,4 +13,4 @@ I'm a creative designer and developer who has been in the industry for over 10 y
 - 💬  Ask me about: Accessibility, Performance, innovative UX, and the Philadelphia Phillies.
 - 📫  How to reach me: Email me at [Rob@RobErskine.com](mailto:rob@roberskine.com) or hit me up on [Twitter](https://twitter.com/erskinerob).
 - 😄  Pronouns: he/him.
-- ⚡  Fun fact: I got kicked out of the honor society in high school for programming calculus functions into my TI-98 calculator. From there I said screw it and leaned all in to design and coding. 
+- ⚡  Fun fact: I'm missing a bone in my elbow as a result of a skateboarding accident from when I was a kid! 
