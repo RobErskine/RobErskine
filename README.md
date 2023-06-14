@@ -1,7 +1,8 @@
-### Hey there 👋
+# 👋 Hey there 
 
 I'm a creative designer and developer who has been in the industry for over 10 years, working for clients like Bank of America, Dunkin Donuts, Frontier Communications, Party City, 38 Studios, Novartis, and Janssen Pharmaceuticals. I lead projects on digital destinations, outdoor advertisements, and omnichannel campaigns that have exceeded expectations, on a budget, and especially on time. 
 
+## More infomration: 
 <a href="https://roberskine.com?utm_source=github" target="_blank">![Rob Erskine's Banner Image](https://p198.p4.n0.cdn.getcloudapp.com/items/E0unGvbX/github-banner.jpg?v=f2fd34f8c387c929439345d807d8a878)</a>
 
 ---
