@@ -14,4 +14,7 @@ I'm a creative designer and developer who has been in the industry for over 10 y
 - 💬  Ask me about: Accessibility, Performance, innovative UX, and the Philadelphia Phillies.
 - 📫  How to reach me: Email me at [Rob@RobErskine.com](mailto:rob@roberskine.com) or hit me up on [Twitter](https://twitter.com/erskinerob).
 - 😄  Pronouns: he/him.
-- ⚡  Fun fact: I'm missing a bone in my elbow as a result of a skateboarding accident from when I was a kid! 
+- ⚡  Fun fact: I'm missing a bone in my elbow as a result of a skateboarding accident from when I was a kid!
+
+---
+![roberskine's Stats](https://github-readme-stats.vercel.app/api?username=roberskine&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
