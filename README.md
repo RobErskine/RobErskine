@@ -7,7 +7,7 @@ I'm a creative designer and developer with over 15 years of experience, having w
 
 ---
 
-- 🔭  I’m currently working on re-vamping the [Steamship Authority website](https://www.steamshipauthority.com/) with my talented teammates at [Stellar Elements](https://stellarelements.com/), non-profit work for [World Ocean School](https://worldoceanschool.org), open-source contributions to [Raycast](https://raycast.com/Rob), and meaningful freelance work. I'm always looking to [lend a hand](mailto:rob@roberskine.com) if you're looking for a partner for your project.
+- 🔭  I’m currently working in partnership with [Dreamworks Animation](https://dreamworks.com) with my talented teammates at [Stellar Elements](https://stellarelements.com/), non-profit work for [World Ocean School](https://worldoceanschool.org), open-source contributions to [Raycast](https://raycast.com/Rob), and meaningful freelance work. I'm always looking to [lend a hand](mailto:rob@roberskine.com) if you're looking for a partner for your project.
 - 🌱  I’m currently learning: [Supabase](https://supabase.com) & Generative AI.
 - 👯  I’m looking to collaborate on any work that could help make your life, your clients, or the world just a little bit better.
 - 🤔  I’m looking for help with: Work on my Craft CMS Plugin, [Craft User Manual](https://github.com/hillholliday/Craft-User-Manual).
